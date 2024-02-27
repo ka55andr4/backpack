@@ -1,1 +1,1 @@
-The maximum value is 60
+The maximum value is $660
